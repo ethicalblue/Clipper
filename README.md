@@ -5,7 +5,7 @@ This is educational Trojan.Clipper sample created for Security Awareness course.
 ![Image](https://github.com/ethicalblue/Clipper/blob/main/clipper_copy.png)
 
 
-![Image](https://github.com/ethicalblue/Clipper/blob/main/clipper_paste.png)
+![Image](https://github.com/ethicalblue/Clipper/blob/main/clipper_paste_2.png)
 
 
 ![Image](https://github.com/ethicalblue/Clipper/blob/main/img/clipper-en.png)
