@@ -1,6 +1,6 @@
-# Trojan.Clipper for Security Awareness course
+# Trojan.Clipper for Security Awareness
 
-This is educational Trojan.Clipper sample created for Security Awareness course.
+This is educational Trojan.Clipper sample created for Security Awareness.
 
 ![Image](https://github.com/ethicalblue/Clipper/blob/main/clipper_copy.png)
 
